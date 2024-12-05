@@ -3,7 +3,8 @@ version: 0.0.1
 expanded:
 - grupo
 - missão
-tasks: {}
+tasks:
+  motouber: 10:0:100
 flags:
   minimum: 0
   reward: 0
@@ -12,5 +13,5 @@ flags:
   skills: 0
   devel: 0
 new_items: []
-lang: 
+lang: cpp
 index: motouber
